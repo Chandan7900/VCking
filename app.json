@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Desinobita/TgVcUsers",
+    "repository": "https://github.com/Chandan7900/TgVcUsers",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session.",
